@@ -12,7 +12,6 @@ Welcome to the Interior Design Inpainting Project! This project aims to enhance 
 7. [Evaluation](#evaluation)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## 🚀 Overview
 This project combines image segmentation and inpainting techniques to restore or enhance interior design images. It uses a grounded segment anything model to identify different elements within the image and then inpaints missing or damaged portions.
