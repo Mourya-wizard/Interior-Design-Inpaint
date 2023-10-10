@@ -1,6 +1,7 @@
-# 🎨 Interior Design Inpainting Project 🏡
+# 🎨 Interior Design Inpainting Project  🏡
 
-Welcome to the Interior Design Inpainting Project! This project aims to enhance interior design images by intelligently inpainting missing or damaged elements. 
+Welcome to the Interior Design Inpainting Project! 
+This project aims to enhance interior design images by intelligently inpainting missing or damaged elements. 
 
 ## 📋 Table of Contents
 1. [Overview](#overview)
